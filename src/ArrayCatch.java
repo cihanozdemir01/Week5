@@ -4,7 +4,6 @@ public class ArrayCatch {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
 
-
         Integer[] list = new Integer[]{0,1,2,3,4,5,6,7,8,9};
 
         System.out.print("10 elemanlı bir diziden indeks numarasına göre bir " +
